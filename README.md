@@ -1,8 +1,8 @@
-## Policy Optimization Through Approximated Importance Sampling
+## Policy Optimization Through Approximate Importance Sampling
 
-See paper:
+Code to replicate the experiments from the paper:
 ```
-https://arxiv.org/abs/1910.03857
+https://arxiv.org/pdf/1910.03857.pdf
 ```
 
 In this paper we propose policy optimization objective deriving the value function of the 
