@@ -18,6 +18,7 @@ The derived algorithm outperforms PPO on experimental benchmarks:
 
 The algorithm we develop is also more robust to suboptimal hyperparameters.
 See the figure below where we compare to PPO with too high clip value (blue curve):
+
 ![results](figs/robust.png)
 
 To run code, create and activate the environment by
